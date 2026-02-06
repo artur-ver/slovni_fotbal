@@ -8,6 +8,12 @@
 
 ---
 
+## 🔗 GitHub Repositář
+
+[https://github.com/artur-ver/slovni_fotbal](https://github.com/artur-ver/slovni_fotbal)
+
+---
+
 ## 📖 O hře
 
 **Slovní fotbal** je interaktivní hra příkazové řádky, kde hrajete proti počítači pojmenovanému **Eda**.
@@ -274,11 +280,5 @@ Máte nápad na vylepšení? Chybu jste našli? Dejte vědět!
 - ✅ Hra musí fungovat v Pythonu 3.8+
 - ✅ Kód musí korektně zpracovat češtinu
 - ✅ Musí fungovat na Windows, Linux a macOS
-
----
-
-## 🔗 GitHub Repositář
-
-[https://github.com/artur-ver/slovni_fotbal](https://github.com/artur-ver/slovni_fotbal)
 
 ---

@@ -277,4 +277,10 @@ Máte nápad na vylepšení? Chybu jste našli? Dejte vědět!
 
 ---
 
+## 🔗 GitHub Repositář
+
+[https://github.com/artur-ver/slovni_fotbal](https://github.com/artur-ver/slovni_fotbal)
+
+---
+
 **Vytvořeno s 💚 pro české vývojáře | v1.0 (2024)**
